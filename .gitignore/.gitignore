@@ -1,5 +1,6 @@
 *.log
-
+.idea
+vcs.xml
 
 /.htaccess
 /license.txt
